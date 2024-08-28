@@ -1,0 +1,48 @@
+Queue 1
+First name: rash
+Last name: guran
+Requre Burger Count: 5
+First name: sudil
+Last name: neth
+Requre Burger Count: 5
+
+
+Queue 2
+First name: kish
+Last name: khan
+Requre Burger Count: 5
+First name: sethum
+Last name: ran
+Requre Burger Count: 5
+First name: sanath
+Last name: jaya
+Requre Burger Count: 5
+
+
+Queue 3
+First name: lasith
+Last name: embul
+Requre Burger Count: 5
+First name: seekuge
+Last name: prasa
+Requre Burger Count: 5
+First name: yash
+Last name: dayal
+Requre Burger Count: 5
+First name: vira
+Last name: koli
+Requre Burger Count: 5
+First name: yupun
+Last name: abey
+Requre Burger Count: 5
+
+
+Waiting Queue
+First name: kasun
+Last name: xxx
+Requre Burger Count: 5
+First name: hasi
+Last name: nethmal
+Requre Burger Count: 5
+
+Burger stock:50
